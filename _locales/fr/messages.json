@@ -29,7 +29,7 @@
     "description": "(deleted 03/29/2023) Placeholder text for textarea when adding a caption/message (we don't know which yet so we default to message)"
   },
   "icu:AddCaptionModal__placeholder": {
-    "messageformat": "Légende",
+    "messageformat": "Message",
     "description": "Placeholder text for textarea when adding a caption/message (we don't know which yet so we default to message)"
   },
   "AddCaptionModal__submit-button": {
@@ -2279,7 +2279,7 @@
     "description": "(deleted 03/29/2023) Placeholder text in the message entry field"
   },
   "icu:sendMessage": {
-    "messageformat": "Légende",
+    "messageformat": "Message",
     "description": "Placeholder text in the message entry field"
   },
   "groupMembers": {
@@ -8448,7 +8448,7 @@
     "description": "(deleted 03/29/2023) Button text for send message button in Group Contact Details modal"
   },
   "icu:ContactModal--message": {
-    "messageformat": "Légende",
+    "messageformat": "Message",
     "description": "Button text for send message button in Group Contact Details modal"
   },
   "ContactModal--rm-admin": {
